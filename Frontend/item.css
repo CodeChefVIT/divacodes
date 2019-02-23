@@ -1,0 +1,23 @@
+.body{
+    margin:0px;
+    padding:0px;
+}
+.main{
+    background-color: blanchedalmond;
+    background: cover;
+    width:auto;
+    height:25vh;
+    text-align: center;
+    font-size: 24px;
+    padding:0px;
+}
+.top{
+    position:relative;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.column{
+    width:auto;
+    height:15vh;
+}
